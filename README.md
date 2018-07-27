@@ -2,26 +2,26 @@
 This is a collection of readings, talks, and other bits regarding the field of Resilience Engineering
 [Prologue: Resilience Engineering Concepts](http://erikhollnagel.com/onewebmedia/Prologue.pdf)
 
-**Hindsight and Safety**
+> **Hindsight and Safety**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Efforts to improve the safety of systems have often – some might say
-always – been dominated by hindsight. This is so both in research and
-in practice, perhaps more surprising in the former than in the latter.
-The practical concern for safety is usually driven by events that have
-happened, either in one’s own company or in the industry as such.
-There is a natural motivation to prevent such events from happening
-again, in concrete cases because they may incur severe losses – of
-equipment and/or of life – and in general cases because they may lead
-to new demands for safety from regulatory bodies, such as national and
-international administrations and agencies. New demands are invariably
-seen as translating into increased costs for companies and are for that
-reason alone undesirable. (This is, however, not an inevitable
-consequence, especially if the company takes a longer time perspective.
-Indeed, for some businesses it makes sense to invest proactively in
-safety, although cases of that are uncommon. The reason for this is that
-sacrificing decisions usually are considered over a short time horizon, in
-terms of months rather than years or in terms of years rather than
-decades.)
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Efforts to improve the safety of systems have often – some might say
+> always – been dominated by hindsight. This is so both in research and
+> in practice, perhaps more surprising in the former than in the latter.
+> The practical concern for safety is usually driven by events that have
+> happened, either in one’s own company or in the industry as such.
+> There is a natural motivation to prevent such events from happening
+> again, in concrete cases because they may incur severe losses – of
+> equipment and/or of life – and in general cases because they may lead
+> to new demands for safety from regulatory bodies, such as national and
+> international administrations and agencies. New demands are invariably
+> seen as translating into increased costs for companies and are for that
+> reason alone undesirable. (This is, however, not an inevitable
+> consequence, especially if the company takes a longer time perspective.
+> Indeed, for some businesses it makes sense to invest proactively in
+> safety, although cases of that are uncommon. The reason for this is that
+> sacrificing decisions usually are considered over a short time horizon, in
+> terms of months rather than years or in terms of years rather than
+> decades.)
 
 
 
