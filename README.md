@@ -1,5 +1,6 @@
 # Resilience-Engineering-Resources
 This is a collection of readings, talks, and other bits regarding the field of Resilience Engineering.
+
 Each is a link to an accessible copy of the resource, with a quick excerpt from the beginning.
 
 [Prologue: Resilience Engineering Concepts](http://erikhollnagel.com/onewebmedia/Prologue.pdf)
